@@ -102,8 +102,16 @@ const MenuToggleButton = styled.button`
 
 const NavBarLinks = props =>
   <Div className={props.className}>
-    <li><a data-scroll="true" href="#about">About</a></li>
-    <li className="contactLink"><a data-scroll="true" href="#contact">Contact</a></li>
+    <li>
+      <a data-scroll="true" href="#about">
+        About
+      </a>
+    </li>
+    <li className="contactLink">
+      <a data-scroll="true" href="#contact">
+        Contact
+      </a>
+    </li>
   </Div>
 
 const SmallNavBarLinks = styled(NavBarLinks)`
