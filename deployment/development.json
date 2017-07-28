@@ -1,6 +1,6 @@
 {
-  "name": "z-dev-site-dev",
-  "alias": "z-dev-site-dev",
+  "name": "next-seed-dev",
+  "alias": "next-seed-dev",
   "env": {
     "DATABASE_NAME": "development"
   }
