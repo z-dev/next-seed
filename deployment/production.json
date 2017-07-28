@@ -1,6 +1,6 @@
 {
-  "name": "z-dev-site-prod",
-  "alias": "z-dev.io",
+  "name": "next-seed-prod",
+  "alias": "next-seed-prod",
   "env": {
     "DATABASE_NAME": "production"
   }
