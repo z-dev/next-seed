@@ -59,17 +59,9 @@ const copySvgsToStatic = () => {
   })
 }
 
-resizeImage('assets/images/techStackLogos/docker.png', {height: 80})
-resizeImage('assets/images/techStackLogos/firebase.png', {height: 80})
-resizeImage('assets/images/techStackLogos/redux.png', {height: 80})
-resizeImage('assets/images/techStackLogos/next.png', {height: 80})
-resizeImage('assets/images/techStackLogos/webpack.png', {height: 80})
-resizeImage('assets/images/staff/rich.jpg', {width: 300, height: 300})
-resizeImage('assets/images/staff/john.jpg', {width: 300, height: 300})
-resizeImage('assets/images/projects/zdevexpresso.png', {width: 600, height: 600})
-resizeImage('assets/images/projects/expresso1.jpg', {width: 600, height: 600})
-resizeImage('assets/images/projects/expresso2.jpg', {width: 600, height: 600})
-resizeImage('assets/images/projects/expresso3.jpg', {width: 600, height: 600})
+
+resizeImage('assets/images/animals/kitten.jpg', {width: 600, height: 600})
+
 
 
 copySvgsToStatic()
