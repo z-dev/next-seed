@@ -1,6 +1,6 @@
 {
-  "name": "z-dev-site-prod",
-  "alias": "z-dev.io",
+  "name": "hello-world-prod",
+  "alias": "hello-world.io",
   "env": {
     "DATABASE_NAME": "production"
   }

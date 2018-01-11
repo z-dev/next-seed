@@ -1,4 +1,4 @@
-# Z-Dev Website built with Next
+# Example website built with Next
 
 ## Setup
 
