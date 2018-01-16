@@ -18,7 +18,6 @@ export default class MyDocument extends Document {
             <Main />
           </div>
           <NextScript />
-          <script type="text/javascript" src="https://secure.leadforensics.com/js/113807.js" />
         </body>
       </html>
     )
