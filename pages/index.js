@@ -3,6 +3,7 @@ import About from 'components/about'
 import Page from 'components/page'
 import Div from 'components/core/div'
 import styled from 'styled-components'
+import '~/styles/global'
 
 const PageContainer = styled(Div)`
   flex-direction: column;
