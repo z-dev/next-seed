@@ -3,13 +3,13 @@
 ## Setup
 
   - Version 8.1.2+ node. (NVM)
-  - npm install
+  - yarn install
 
 To run the site at localhost:3000 in development mode:
-  - npm run dev
+  - yarn dev
 
 To deploy the site:
-  - npm run deploy:ci:dev
-  - npm run deploy:ci:prod
+  - yarn run deploy:ci:dev
+  - yarn run deploy:ci:prod
 
 
