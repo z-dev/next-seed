@@ -55,7 +55,7 @@
     "eslint-plugin-jsx-a11y": "3.0.2",
     "eslint-plugin-prettier": "^2.0.1",
     "eslint-plugin-react": "6.9.0",
-    "husky": "^0.13.3",
+    "husky": "^0.14.3",
     "lint-staged": "^3.4.0",
     "ncp": "^2.0.0",
     "nodemon": "^1.11.0",
