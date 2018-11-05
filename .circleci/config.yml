@@ -15,7 +15,7 @@ jobs:
             - ~/.cache/yarn
       - run:
           name: test
-          command: yarn test
+          command: yarn ci
       - deploy:
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then

@@ -5,7 +5,7 @@
   "scripts": {
     "prebuild": "rm -rf node_modules/.cache && bin/buildStatic.sh",
     "check:node": "check-node-version --package",
-    "test": "yarn run lint",
+    "ci": "yarn run lint && yarn build",
     "dev": "yarn run prebuild && next dev",
     "build": "yarn run prebuild && next build",
     "start": "yarn next",
