@@ -15,7 +15,7 @@ const Container = styled(ResponsiveContainer)`
   padding-top: 30px;
   padding-bottom: 25px;
 `
-const Header = H1.extend`
+const Header = styled(H1)`
   text-align: center;
   font-weight: 500;
 `
