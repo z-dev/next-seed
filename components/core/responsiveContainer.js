@@ -1,7 +1,8 @@
 import React from 'react'
+import styled from 'styled-components'
 import Div from './div'
 
-const OuterContainer = Div.extend`
+const OuterContainer = styled(Div)`
   flex: 1;
   display: flex;
 
