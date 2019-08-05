@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import About from 'components/about'
-import Page from 'components/page'
-import Div from 'components/core/div'
+import About from '~/components/about'
+import Page from '~/components/page'
+import Div from '~/components/core/div'
 import styled from 'styled-components'
 import '~/styles/global'
 
