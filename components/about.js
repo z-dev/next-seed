@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import ResponsiveContainer from 'components/core/responsiveContainer'
-import { H1 } from 'components/core/headerText'
+import ResponsiveContainer from '~/components/core/responsiveContainer'
+import { H1 } from '~/components/core/headerText'
 import styled from 'styled-components'
 
 const Container = styled(ResponsiveContainer)`
